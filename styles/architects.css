@@ -6,3 +6,33 @@
   font-weight: 400;
   font-style: normal;
 }
+
+/* shared styles */
+.container{
+  width: 90%;
+  margin: 2rem auto;
+}
+
+/* navbar styles */
+.nav-bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.archi-logo{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.arch-nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 3rem;
+  list-style: none;
+}
+
+.arch-nav li{
+
+}
